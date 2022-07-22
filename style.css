@@ -70,7 +70,7 @@ select{
  -webkit-appearance: none;
  -moz-appearance: none;
  
- background-image: url(/images/arrow.jpg);
+ background-image: url(./images/arrow.jpg);
  background-repeat: no-repeat;
  background-position-x: calc(100% - 10px);
  background-position-y: center;
